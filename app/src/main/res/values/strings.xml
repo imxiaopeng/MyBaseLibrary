@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyBaseLibrary</string>
+    <string name="net_error">哎呀，网络开小差了</string>
+    <string name="text_server_error">服务器开小差</string>
+</resources>
